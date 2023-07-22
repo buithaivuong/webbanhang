@@ -1,0 +1,15 @@
+E:\hoc\vuong\c#\bin\Debug\net7.0\c#.exe
+E:\hoc\vuong\c#\bin\Debug\net7.0\c#.deps.json
+E:\hoc\vuong\c#\bin\Debug\net7.0\c#.runtimeconfig.json
+E:\hoc\vuong\c#\bin\Debug\net7.0\c#.dll
+E:\hoc\vuong\c#\bin\Debug\net7.0\c#.pdb
+E:\hoc\vuong\c#\obj\Debug\net7.0\c#.csproj.AssemblyReference.cache
+E:\hoc\vuong\c#\obj\Debug\net7.0\c#.GeneratedMSBuildEditorConfig.editorconfig
+E:\hoc\vuong\c#\obj\Debug\net7.0\c#.AssemblyInfoInputs.cache
+E:\hoc\vuong\c#\obj\Debug\net7.0\c#.AssemblyInfo.cs
+E:\hoc\vuong\c#\obj\Debug\net7.0\c#.csproj.CoreCompileInputs.cache
+E:\hoc\vuong\c#\obj\Debug\net7.0\c#.dll
+E:\hoc\vuong\c#\obj\Debug\net7.0\refint\c#.dll
+E:\hoc\vuong\c#\obj\Debug\net7.0\c#.pdb
+E:\hoc\vuong\c#\obj\Debug\net7.0\c#.genruntimeconfig.cache
+E:\hoc\vuong\c#\obj\Debug\net7.0\ref\c#.dll

@@ -1,0 +1,15 @@
+E:\hoc\vuong\c#\newproject\bin\Debug\net7.0\newproject.exe
+E:\hoc\vuong\c#\newproject\bin\Debug\net7.0\newproject.deps.json
+E:\hoc\vuong\c#\newproject\bin\Debug\net7.0\newproject.runtimeconfig.json
+E:\hoc\vuong\c#\newproject\bin\Debug\net7.0\newproject.dll
+E:\hoc\vuong\c#\newproject\bin\Debug\net7.0\newproject.pdb
+E:\hoc\vuong\c#\newproject\obj\Debug\net7.0\newproject.csproj.AssemblyReference.cache
+E:\hoc\vuong\c#\newproject\obj\Debug\net7.0\newproject.GeneratedMSBuildEditorConfig.editorconfig
+E:\hoc\vuong\c#\newproject\obj\Debug\net7.0\newproject.AssemblyInfoInputs.cache
+E:\hoc\vuong\c#\newproject\obj\Debug\net7.0\newproject.AssemblyInfo.cs
+E:\hoc\vuong\c#\newproject\obj\Debug\net7.0\newproject.csproj.CoreCompileInputs.cache
+E:\hoc\vuong\c#\newproject\obj\Debug\net7.0\newproject.dll
+E:\hoc\vuong\c#\newproject\obj\Debug\net7.0\refint\newproject.dll
+E:\hoc\vuong\c#\newproject\obj\Debug\net7.0\newproject.pdb
+E:\hoc\vuong\c#\newproject\obj\Debug\net7.0\newproject.genruntimeconfig.cache
+E:\hoc\vuong\c#\newproject\obj\Debug\net7.0\ref\newproject.dll
